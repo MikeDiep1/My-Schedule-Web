@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mike'Schedule</title>
+  <link rel="stylesheet" href="/css/Style.css">
+  <script src="/js/javaScript.js"></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+</head>
+
+<body>
+  <ul class="navBar">
+    <li><a class="active" href="MySchedule.html">Home</a></li>
+    <li style="float:right"><a href="AboutMe.html">About Me</a></li>
+    <li class="dropdown">
+      <a href="javascript:void(0)" class="dropbtn">Days of the Week</a>
+      <div class="dropdown-content">
+        <a href="Monday.html">Monday</a>
+        <a href="Tuesday.html">Tuesday</a>
+        <a href="Wednesday.html">Wednesday</a>
+        <a href="Thursday.html">Thursday</a>
+        <a href="Friday.html">Friday</a>
+        <a href="Saturday.html">Saturday</a>
+        <a href="Sunday.html">Sunday</a>
+      </div>
+    </li>
+    <li><a href="MyForm.html">Form Input</a></li>
+    <li><a href="stockQuotes.html">My Stocks</a></li>
+    <li><a href="MyServer.html">My Server</a></li>
+    <li><a href="private.html">Private 403</a></li>
+  </ul>
+
+  <h1>My Schedule</h1>
+  <div class="gridContainer">
+
+    <table class="schedTbl">
+      <tr>
+        <th>Day</th>
+        <th>Event</th>
+        <th>Time</th>
+        <th>Event Location (Virtual or Physical)</th>
+        <th>Phone Number</th>
+        <th>URL</th>
+      </tr>
+
+      <tr class="scheduleHov" onmouseover="showBigPic(1)" onmouseleave="showBigPic(9)">
+        <td class="time">Monday</td>
+        <td class="event">CSCI 5801 lecture</td>
+        <td class="time2">9:45am-11:00am</td>
+        <td class="hovIMG"><p class="location">Bruinicks Hall 222 Pleasant St SE, Minneapolis, MN 55455</p> 
+          <img class="hoveredimg" src="/img/Bruininks.jpg" alt="Bruininks">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/413187/assignments/syllabus">CSCI 5801 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(2)" onmouseleave="showBigPic(9)">
+        <td class="time">Monday</td>
+        <td class="event">CSCI 4131 lecture</td>
+        <td class="time2">11:00am-12:30pm</td>
+        <td class="hovIMG"><p class="location">Anderson Hall 370: 257 S 19th Ave, Minneapolis, MN 55455</p> 
+          <img class="hoveredimg" src="/img/anderson.jpg" alt="Anderson">
+        </td>
+        <td>(612) 626-7305</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/412716/assignments/syllabus">CSCI 4131 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(3)" onmouseleave="showBigPic(9)">
+        <td class="time">Monday</td>
+        <td class="event">IDSC 3103 lecture</td>
+        <td class="time2">3:45pm-5:25pm</td>
+        <td class="hovIMG"><p class="location">Carlson School of Management 321 S 19th Ave, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Carlson.jpg" alt="Carlson">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/416687/assignments/syllabus">IDSC 3103 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(3)" onmouseleave="showBigPic(9)">
+        <td class="time">Tuesday</td>
+        <td class="event">MGMT 4175W lecture</td>
+        <td class="time2">1:45pm-3:25pm</td>
+        <td class="hovIMG"><p class="location">Carlson School of Management 321 S 19th Ave, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Carlson.jpg" alt="Carlson">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/416946/assignments/syllabus">IDSC 3103 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(4)" onmouseleave="showBigPic(9)">
+        <td class="time">Tuesday</td>
+        <td class="event">TH 3322 lab</td>
+        <td class="time2">3:35pm-5:30pm</td>
+        <td class="hovIMG"><p class="location">Rarig Center 630: 330 21st Ave S, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Rarig.jpg" alt="Rarig">
+        </td>
+        <td>612-309-9854</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/411127">TH 3322 Canvas Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(1)" onmouseleave="showBigPic(9)">
+        <td class="time">Wednesday</td>
+        <td class="event">CSCI 5801 lecture</td>
+        <td class="time2">9:45am-11:00am</td>
+        <td class="hovIMG"><p class="location">Bruinicks Hall 222 Pleasant St SE, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Bruininks.jpg" alt="Bruininks">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/413187/assignments/syllabus">CSCI 5801 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(2)" onmouseleave="showBigPic(9)">
+        <td class="time">Wednesday</td>
+        <td class="event">CSCI 4131 lecture</td>
+        <td class="time2">11:00am-12:30pm</td>
+        <td class="hovIMG"><p class="location">Anderson Hall 370: 257 S 19th Ave, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/anderson.jpg" alt="Anderson">
+        </td>
+        <td>(612) 626-7305</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/412716/assignments/syllabus">CSCI 4131 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(3)" onmouseleave="showBigPic(9)">
+        <td class="time">Wednesday</td>
+        <td class="event">IDSC 3103 lecture</td>
+        <td class="time2">3:45pm-5:25pm</td>
+        <td class="hovIMG"><p class="location">Carlson School of Management 321 S 19th Ave, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Carlson.jpg" alt="Carlson">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/416687/assignments/syllabus">IDSC 3103 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(5)" onmouseleave="showBigPic(9)">
+        <td class="time">Wednesday</td>
+        <td class="event">Ding Batz Open Mic</td>
+        <td class="time2">7:30pm-9:00pm</td>
+        <td class="hovIMG"><p class="location">Comedy Corner Underground 1501 Washington Ave S Suite B1, Minneapolis, MN 55454</p>
+          <img class="hoveredimg" src="/img/Comedy.jpg" alt="Comedy">
+        </td>
+        <td>(612) 492-1197</td>
+        <td>
+          <p><a href="https://comedycornerunderground.com/">Comedy Corner Underground Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(3)" onmouseleave="showBigPic(9)">
+        <td class="time">Thursday</td>
+        <td class="event">MGMT 4175W lecture</td>
+        <td class="time2">1:45pm-3:25pm</td>
+        <td class="hovIMG"><p class="location">Carlson School of Management 321 S 19th Ave, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Carlson.jpg" alt="Carlson">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/416946/assignments/syllabus">IDSC 3103 syllabus</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(4)" onmouseleave="showBigPic(9)">
+        <td class="time">Thursday</td>
+        <td class="event">TH 3322 lab</td>
+        <td class="time2">3:35pm-5:30pm</td>
+        <td class="hovIMG"><p class="location">Rarig Center 630: 330 21st Ave S, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Rarig.jpg" alt="Rarig">
+        </td>
+        <td>612-309-9854</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/411127">TH 3322 Canvas Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov">
+        <td>Thursday</td>
+        <td>Intermediate Vietnamese 2</td>
+        <td>7:00 - 8:00 PM</td>
+        <td>Zoom</td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://d2l.msu.edu/d2l/home/1853421">Vietnamese d2L Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(4)" onmouseleave="showBigPic(9)">
+        <td class="time">Friday</td>
+        <td class="event">TH 3370 lab</td>
+        <td class="time2">11:15pm-1:10pm</td>
+        <td class="hovIMG"><p class="location">Rarig Center 630: 330 21st Ave S, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Rarig.jpg" alt="Rarig">
+        </td>
+        <td>No phone number</td>
+        <td>
+          <p><a href="https://canvas.umn.edu/courses/411182">TH 3370 Canvas Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(6)" onmouseleave="showBigPic(9)">
+        <td class="time">Saturday</td>
+        <td class="event">Weightlift</td>
+        <td class="time2">~10:00am-6:00pm</td>
+        <td class="hovIMG"><p class="location">RecWell 123 SE Harvard St, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Recwell.jpg" alt="RecWell">
+        </td>
+        <td>(612) 626-9222</td>
+        <td>
+          <p><a href="https://recwell.umn.edu/">RecWell Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(7)" onmouseleave="showBigPic(9)">
+        <td class="time">Sunday</td>
+        <td class="event">Morning Coffee Shop</td>
+        <td class="time2">9:00am-10:00am</td>
+        <td class="hovIMG"><p class="location">Spyhouse Coffee 945 Broadway St NE, Minneapolis, MN 55413</p>
+          <img class="hoveredimg" src="/img/Spyhouse.jpg" alt="Spyhouse">
+        </td>
+        <td>(612) 345-4348</td>
+        <td>
+          <p><a href="https://spyhousecoffee.com/">Spyhouse Coffee Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(6)" onmouseleave="showBigPic(9)">
+        <td class="time">Sunday</td>
+        <td class="event">Weightlift</td>
+        <td class="time2">~10:00am-6:00pm</td>
+        <td class="hovIMG"><p class="location">RecWell 123 SE Harvard St, Minneapolis, MN 55455</p>
+          <img class="hoveredimg" src="/img/Recwell.jpg" alt="RecWell">
+        </td>
+        <td>(612) 626-9222</td>
+        <td>
+          <p><a href="https://recwell.umn.edu/">RecWell Page</a></p>
+        </td>
+      </tr>
+      <tr class="scheduleHov" onmouseover="showBigPic(8)" onmouseleave="showBigPic(9)">
+        <td class="time">Sunday</td>
+        <td class="event">Groceries/Errands</td>
+        <td class="time2">~1:00pm-3:00pm</td>
+        <td class="hovIMG"><p class="location">Roseville Walmart 1960 Twin Lakes Pkwy, Roseville, MN 55113</p>
+          <img class="hoveredimg" src="/img/Walmart.jpg" alt="Walmart">
+        </td>
+        <td>(612) 788-1303</td>
+        <td>
+          <p><a href="https://www.walmart.com/store/3404-roseville-mn">Walmart Roseville Page</a></p>
+        </td>
+      </tr>
+    </table>
+    <div>
+      <img id="bigimage" src="/img/gophers-mascot.png" alt="GOLDY's headas*" height="250" width="280">
+    </div>
+    <div id="sidebar" style="width: 280px; height: 255px; z-index: 2;"></div>
+  </div>
+
+  <div class="directions">
+    <label for="Direction">Directions to</label>
+    <input type="text" name="directionSearch" id="myInput" required>
+    <p>by</p>
+    <div>
+      <input type="radio" name="commute" value="Walk" id="walk">
+      <label for="walk">WALK</label>
+      <input type="radio" name="commute" value="Drive" id="drive">
+      <label for="drive">DRIVE</label>
+      <input type="radio" name="commute" value="Transit" id="trans">
+      <label for="trans">TRANS</label>
+    </div required>
+    <br>
+    <button id="getDir">Go</button>
+  </div>
+
+  <div id="container">
+    <div id="scheduleMap"></div>
+  </div>
+
+  </div>
+
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAzT6-ldxhAWi5ZIKm20YtkVGobVCfbvmE&libraries=places&callback=initMap"
+    async defer></script>
+</body>
+
+</html>

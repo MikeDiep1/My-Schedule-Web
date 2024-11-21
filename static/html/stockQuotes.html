@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Stocks</title>
+    <link rel="stylesheet" href="/css/Style.css">
+    <script src="/js/stocks.js"></script>
+    <script src="/js/moreStocks.js"></script>
+
+</head>
+<body>
+    <!-- AS5LI3UW2DVR8OEJ -->
+
+    <ul class="navBar">
+        <li><a href="MySchedule.html">Home</a></li>
+        <li style="float:right"><a href="AboutMe.html">About Me</a></li>
+        <li class="dropdown">
+          <a href="javascript:void(0)" class="dropbtn">Days of the Week</a>
+          <div class="dropdown-content">
+            <a href="Monday.html">Monday</a>
+            <a href="Tuesday.html">Tuesday</a>
+            <a href="Wednesday.html">Wednesday</a>
+            <a href="Thursday.html">Thursday</a>
+            <a href="Friday.html">Friday</a>
+            <a href="Saturday.html">Saturday</a>
+            <a href="Sunday.html">Sunday</a>
+          </div>
+        </li>
+        <li><a href="MyForm.html">Form Input</a></li>
+        <li><a class="active" href="stockQuotes.html">My Stocks</a></li>
+        <li><a href="MyServer.html">My Server</a></li>
+        <li><a href="private.html">Private 403</a></li>
+    </ul>
+
+    <div class="stockSearch"> 
+        <br>
+        <label for="stock">Enter Stock Symbol</label>
+        <input type="text" name="stockSearch" id="stockSearch" placeholder="AMZN, NVDA..." required>
+        <br>
+        <input type="button" id="getStock" value="Get Stock Data" onclick="request()">
+    </div>
+    <br>
+    <div class="stockData">
+        <label for="stockData">API Response</label>
+        <br>
+        <textarea id="stockData" name="stockData" rows="20" cols="50" ></textarea>
+    </div>
+
+    <script>
+        var stocks = new Stocks('AS5LI3UW2DVR8OEJ'); 
+
+        async function request() {
+            // let ticker = document.getElementById("stockSearch").value;
+            let result = await stocks.timeSeries({
+
+            symbol: document.getElementById("stockSearch").value,
+            interval: '1min',
+            amount: 1,
+            indicator: 'ADX'
+        });
+
+        document.getElementById("stockData").innerHTML = JSON.stringify(result, null, 2);
+        }
+    </script>
+</body>
+</html>
