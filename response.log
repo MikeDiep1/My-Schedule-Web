@@ -1,0 +1,150 @@
+22:13:32, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:13:33, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+22:13:33, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:13:33, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+22:13:33, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+22:13:33, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+22:13:34, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:13:39, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+22:13:39, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+22:13:43, {'Content-Type': 'text/html', 'Content-Length': 2347, 'X-Content-Type-Options': 'nosniff'}, /stockQuotes.html, 200
+22:13:43, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:13:43, {'Content-Type': 'text/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /js/stocks.js, 200
+22:13:43, {'Content-Type': 'text/javascript', 'Content-Length': 403, 'X-Content-Type-Options': 'nosniff'}, /js/moreStocks.js, 200
+22:13:43, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:13:55, {'Content-Type': 'text/html', 'Content-Length': 4411, 'X-Content-Type-Options': 'nosniff'}, /MyForm.html, 200
+22:13:55, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:13:55, {'Content-Type': 'text/javascript', 'Content-Length': 867, 'X-Content-Type-Options': 'nosniff'}, /js/form.js, 200
+22:13:56, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:15, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 2344, 'X-Content-Type-Options': 'nosniff'}, /EventLog.html, 200
+22:14:15, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:14:15, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:14:15, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:31, {'Content-Type': 'text/html', 'Content-Length': 18246, 'X-Content-Type-Options': 'nosniff'}, /AboutMe.html, 200
+22:14:31, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:14:31, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:14:35, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:37, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /private.html, 200
+22:14:37, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:40, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:40, {'Content-Type': 'text/html', 'Content-Length': 1782, 'X-Content-Type-Options': 'nosniff'}, /MyServer.html, 200
+22:14:40, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:14:46, {'Location': 'https://www.google.com/search?q=Vikings'}, /redirect, 307
+22:14:47, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:01, {'Content-Type': 'text/html', 'Content-Length': 27, 'X-Content-Type-Options': 'nosniff'}, /calculator, 307
+22:15:01, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:03, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:51, {'Content-Type': 'text/html', 'Content-Length': 451, 'X-Content-Type-Options': 'nosniff'}, /Coffman_N_OuttaSpace.html, 200
+22:15:51, {'Content-Type': 'image/png', 'Content-Length': 161853, 'X-Content-Type-Options': 'nosniff'}, /img/coffman.png, 200
+22:15:51, {'Content-Type': 'audio/mpeg', 'Content-Length': 735638, 'X-Content-Type-Options': 'nosniff'}, /audio/OuttaSpace.mp3, 200
+22:15:51, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:53, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:55, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:56, {'Content-Type': 'text/html', 'Content-Length': 205, 'X-Content-Type-Options': 'nosniff'}, /Coffman.html, 200
+22:15:56, {'Content-Type': 'image/png', 'Content-Length': 161853, 'X-Content-Type-Options': 'nosniff'}, /img/coffman.png, 200
+22:15:56, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:57, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:58, {'Content-Type': 'text/html', 'Content-Length': 269, 'X-Content-Type-Options': 'nosniff'}, /OuttaSpace.html, 200
+22:15:58, {'Content-Type': 'audio/mpeg', 'Content-Length': 735638, 'X-Content-Type-Options': 'nosniff'}, /audio/OuttaSpace.mp3, 200
+22:15:58, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:15:59, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:16:01, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:16:02, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+22:16:02, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:16:02, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+22:16:02, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+22:16:02, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+22:16:03, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:16:03, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+22:20:46, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+22:20:46, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:20:46, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+22:20:46, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+22:20:46, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+22:20:47, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:20:47, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+22:20:48, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+22:20:48, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:20:48, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+22:20:48, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+22:20:48, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+22:20:49, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:21:12, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+22:21:12, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+22:21:12, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+22:21:12, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+22:21:12, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+22:21:13, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:26:09, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /Tuesday.html, 200
+22:26:10, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+22:26:10, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:04, {'Content-Type': 'text/html', 'Content-Length': 18246, 'X-Content-Type-Options': 'nosniff'}, /AboutMe.html, 200
+21:03:04, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+21:03:04, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+21:03:05, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:23, {'Content-Type': 'text/html', 'Content-Length': 4411, 'X-Content-Type-Options': 'nosniff'}, /MyForm.html, 200
+21:03:24, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+21:03:24, {'Content-Type': 'text/javascript', 'Content-Length': 867, 'X-Content-Type-Options': 'nosniff'}, /js/form.js, 200
+21:03:24, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:26, {'Content-Type': 'text/html', 'Content-Length': 2347, 'X-Content-Type-Options': 'nosniff'}, /stockQuotes.html, 200
+21:03:26, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+21:03:26, {'Content-Type': 'text/javascript', 'Content-Length': 12625, 'X-Content-Type-Options': 'nosniff'}, /js/stocks.js, 200
+21:03:26, {'Content-Type': 'text/javascript', 'Content-Length': 403, 'X-Content-Type-Options': 'nosniff'}, /js/moreStocks.js, 200
+21:03:26, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:35, {'Content-Type': 'text/html', 'Content-Length': 1782, 'X-Content-Type-Options': 'nosniff'}, /MyServer.html, 200
+21:03:35, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:39, {'Content-Type': 'text/html', 'Content-Length': 12242, 'X-Content-Type-Options': 'nosniff'}, /MySchedule.html, 200
+21:03:39, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+21:03:39, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 150174, 'X-Content-Type-Options': 'nosniff'}, /img/Bruininks.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 90623, 'X-Content-Type-Options': 'nosniff'}, /img/anderson.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 10810, 'X-Content-Type-Options': 'nosniff'}, /img/Carlson.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 15017, 'X-Content-Type-Options': 'nosniff'}, /img/Rarig.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 7520, 'X-Content-Type-Options': 'nosniff'}, /img/Comedy.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 12683, 'X-Content-Type-Options': 'nosniff'}, /img/Recwell.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 11580, 'X-Content-Type-Options': 'nosniff'}, /img/Spyhouse.jpg, 200
+21:03:39, {'Content-Type': 'image/jpeg', 'Content-Length': 10158, 'X-Content-Type-Options': 'nosniff'}, /img/Walmart.jpg, 200
+21:03:39, {'Content-Type': 'image/png', 'Content-Length': 82836, 'X-Content-Type-Options': 'nosniff'}, /img/gophers-mascot.png, 200
+21:03:40, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:03:41, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+21:04:06, {'Content-Type': 'image/png', 'Content-Length': 25240, 'X-Content-Type-Options': 'nosniff'}, /img/direction.png, 200
+21:04:17, {'Content-Type': 'text/html', 'Content-Length': 18246, 'X-Content-Type-Options': 'nosniff'}, /AboutMe.html, 200
+21:04:17, {'Content-Type': 'text/css', 'Content-Length': 5111, 'X-Content-Type-Options': 'nosniff'}, /css/Style.css, 200
+21:04:17, {'Content-Type': 'text/javascript', 'Content-Length': 6823, 'X-Content-Type-Options': 'nosniff'}, /js/javaScript.js, 200
+21:04:18, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
+21:04:50, {'Content-Type': 'text/html; charset=utf-8', 'Content-Length': 143, 'X-Content-Type-Options': 'nosniff'}, /favicon.ico, 200
